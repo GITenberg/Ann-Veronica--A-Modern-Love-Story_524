@@ -1,0 +1,47 @@
+_repo: Ann-Veronica--A-Modern-Love-Story_524
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "Ann Veronica is a New Woman novel by H.G. Wells published in 1909.\n\
+  Ann Veronica describes the rebellion of Ann Veronica Stanley, \"a young lady of\
+  \ nearly two-and-twenty,\" against her middle-class father's stern patriarchal rule.\
+  \ The novel dramatizes the contemporary problem of the New Woman. It is set in Victorian\
+  \ era London and environs, except for an Alpine excursion. Ann Veronica offers vignettes\
+  \ of the Women's suffrage movement in Great Britain and features a chapter inspired\
+  \ by the 1908 attempt of suffragettes to storm Parliament.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '2006-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '524'
+  wikidata: Q1247736
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Social conditions -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Sex role -- Fiction'
+- !lcsh 'Feminism -- Fiction'
+- GITenberg
+title: 'Ann Veronica: A Modern Love Story'
+url: http://www.gutenberg.org/ebooks/524
+wikipedia:
+- https://fr.wikipedia.org/wiki/Anne_V%C3%A9ronique
+- https://ar.wikipedia.org/wiki/%D8%A2%D9%86_%D9%81%D9%8A%D8%B1%D9%88%D9%86%D9%8A%D9%83%D8%A7
+- https://pt.wikipedia.org/wiki/Ann_Veronica
+- https://sh.wikipedia.org/wiki/Ann_Veronica
+- https://es.wikipedia.org/wiki/Ann_Veronica
+- https://en.wikipedia.org/wiki/Ann_Veronica
+- https://uk.wikipedia.org/wiki/%D0%95%D0%BD%D0%BD_%D0%92%D0%B5%D1%80%D0%BE%D0%BD%D1%96%D0%BA%D0%B0
+- https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%BD%D0%B0-%D0%92%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0
+- https://ca.wikipedia.org/wiki/Ann_Veronica
