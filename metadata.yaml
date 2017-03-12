@@ -1,5 +1,8 @@
 _repo: Ann-Veronica--A-Modern-Love-Story_524
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -17,6 +20,8 @@ description: "Ann Veronica is a New Woman novel by H.G. Wells published in 1909.
   \ of the Women's suffrage movement in Great Britain and features a chapter inspired\
   \ by the 1908 attempt of suffragettes to storm Parliament.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/524#Ann-Veronica--A-Modern-Love-Story
 gutenberg_issued: '2006-03-18'
 gutenberg_type: Text
 identifiers:
